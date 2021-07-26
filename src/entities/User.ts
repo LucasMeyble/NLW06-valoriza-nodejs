@@ -13,7 +13,7 @@ class User {
     readonly id: string;
 
     @Column()
-    name: string;
+    name: string; 
 
     @Column()
     email: string;
