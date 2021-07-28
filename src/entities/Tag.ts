@@ -30,4 +30,4 @@ class Tag{
 
 }
 
-export { Tag }
+export { Tag };
